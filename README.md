@@ -25,6 +25,9 @@ This is a huge change for them! They need online ordering systems! They haven't 
 
 2) Allows restaurants to set limits on number of deliveries or pickups per time slot
 
+More requirements being roughed out in [this google doc](https://docs.google.com/document/d/1Lk8PiCZZhod58dLaVkCQq02t8Yqz1jt-CbRnlOO6Ghg/edit#heading=h.tl5bz7dul1oq)
+
+
 ## I'm a restaurant owner or employee
 
 - Join the discussion at https://discord.gg/5cfdhp
