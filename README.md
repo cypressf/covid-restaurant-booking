@@ -25,5 +25,19 @@ This is a huge change for them! They need online ordering systems! They haven't 
 
 2) Allows restaurants to set limits on number of deliveries or pickups per time slot
 
+## I'm a restaurant owner or employee
+
+- Join the discussion at https://discord.gg/5cfdhp
+
+- Tell us what you need! We're listening and we want to help you as quickly as possible
+
+- Star this repo
+
+## I'm a software engineer looking to help out
+
+- Join the discussion at https://discord.gg/5cfdhp
+
+- Star this repo, and start contributing ideas in the form of git issues
+
 
 We can run a free version on an amazon server while the pandemic continues, and we potentially add a paid tier or ask for donations if the costs get too high, but always provide the source code with instructions on how to setup your own server, if someone wants to reduce costs
