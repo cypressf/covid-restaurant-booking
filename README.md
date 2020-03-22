@@ -38,7 +38,7 @@ More requirements being roughed out in [this google doc](https://docs.google.com
 
 ## I'm a software engineer looking to help out
 
-- Join the discussion at https://discord.gg/5cfdhp
+- Join the discussion at https://discord.gg/5cfdhp, and contribute to a [technical proposal](https://github.com/cypressf/covid-restaurant-booking/wiki/Technical-proposal)
 
 - Star this repo, and start contributing ideas in the form of git issues
 
