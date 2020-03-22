@@ -2,13 +2,13 @@
 
 There are many restaurants that only served people in-house before the pandemic.
 
-# Two user groups
+## Two user groups
 
 1) Fancy sit-down places that costs a lot of money and do not deliver
 
 2) Cash-only mom-n-pop places that have do not deliver. They are fundamentally incompatible with the credit-card systems of uber eats, grubhub, and seamless, and those services are too expensive anyway.
 
-# Let's focus on mom-n-pop.
+## Let's focus on mom-n-pop.
 
 This is a huge change for them! They need online ordering systems! They haven't yet found good software to help them manage online orders, deliveries, and pickups.
 
@@ -19,7 +19,7 @@ This is a huge change for them! They need online ordering systems! They haven't 
 - Pickup lines can't get big during the pandemic, so they need time-slot reservations for pickups
 
 
-# Solution: free and open source online ordering service
+## Solution: free and open source online ordering service
 
 1) Allows people to order for pickup or delivery, with the option to pay in cash
 
